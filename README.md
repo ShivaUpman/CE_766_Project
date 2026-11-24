@@ -36,18 +36,9 @@ CE766 Project/
 │   ├── 06_make_figures.py          # Generates publication-ready figures (200 DPI)
 │   ├── 07_sensitivity_analysis.py  # One-At-A-Time (OAT) parameter sensitivity analysis
 │   └── utils.py                    # Unit conversions, storage functions, and evaluation metrics
-├── results/
-│   ├── figures/                    # Visual 1 (calibration/validation) & Visual 2 (interventions)
-│   └── tables/                     # Summary CSV tables (metrics, interventions, sensitivity)
-├── docs/
-│   ├── assumptions_log.md          # Log of all scientific assumptions and data gap handlings
-│   ├── progress_log.md             # Running chronological log of project activities
-│   ├── data_sources.md             # Data URLs, citations, and access timestamps
-│   ├── data_dictionary.md          # Variable names, units, and descriptions
-│   └── explain_for_quiz.md         # Plain-English technical explanations for oral quiz defense
-└── report/
-    ├── preliminary_update.md       # Preliminary submission document
-    └── final_report.md             # Comprehensive final report
+└── results/
+    ├── figures/                    # Visual 1 (calibration/validation) & Visual 2 (interventions)
+    └── tables/                     # Summary CSV tables (metrics, interventions, sensitivity)
 ```
 
 ---
