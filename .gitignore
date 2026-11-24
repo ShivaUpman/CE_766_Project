@@ -1,0 +1,27 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE & Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+
+# Ignore internal docs, reports, and agent instruction files
+# (ensures only code, data, results, and README are uploaded)
+docs/
+report/
+AGENTS.md
+GEMINI.md
+MASTER_PROMPT.md
+.gemini/

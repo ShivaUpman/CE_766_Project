@@ -1,0 +1,5 @@
+Intervention Scenario,Total Demand (MCM),Total Delivered (MCM),Irrigation Deficit (MCM),Shortfall Rate (%),Minimum Storage (MCM),Mean Storage (MCM),Mean June 1 Carryover (MCM),Days Below Dead Storage,Total Flood Spill (MCM),Spill Days
+Baseline (Historical),7198.2,7065.1,133.1,1.8,1779.7,2534.7,1960.7,34,6200.0,202
+L1: Drought Hedging (20% Cut <25% Storage),7198.2,6800.8,397.4,5.5,1801.2,2561.8,1997.4,3,6379.5,205
+L2: Canal Modernization (15% Loss Reduction),6118.5,6118.5,0.0,0.0,1924.2,2671.0,2148.5,0,7007.7,230
+L3: Pre-Monsoon Flood Cushion (40% Headroom),7198.2,7065.1,133.1,1.8,1779.7,2624.2,2005.2,34,5045.6,228

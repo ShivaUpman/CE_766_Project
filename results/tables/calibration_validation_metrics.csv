@@ -1,0 +1,4 @@
+Period,Days,RMSE (MCM),Mean Bias (MCM),NSE,Runoff Coeff (c_runoff),Pan Coeff,Seepage Coeff (k_seep)
+Calibration (2021–2023),1095,5.65,0.02,1.0,0.045,0.74,0.0001
+Validation (2024–2025),731,12.53,-0.02,0.999,0.045,0.74,0.0001
+Overall (2021–2025),1826,9.05,0.0,1.0,0.045,0.74,0.0001

@@ -1,0 +1,8 @@
+Experiment,c_runoff,pan_coeff,k_seep,Mean Storage (MCM),Min Storage (MCM),Irrigation Deficit (MCM),Days Below Dead Storage,Mean Storage Change (%)
+Baseline (Calibrated),0.045,0.74,0.0001,2540.4,1782.9,120.8,32,0.0
+Runoff Coeff +20%,0.054,0.74,0.0001,2577.2,1792.8,38.2,9,1.45
+Runoff Coeff -20%,0.036,0.74,0.0001,2504.4,1759.4,221.6,55,-1.42
+Pan Evap Coeff +20%,0.045,0.888,0.0001,2494.5,1746.9,275.2,69,-1.81
+Pan Evap Coeff -20%,0.045,0.592,0.0001,2589.8,1801.3,11.2,3,1.94
+Seepage Coeff +20%,0.045,0.74,0.00012,2529.6,1776.8,140.6,37,-0.43
+Seepage Coeff -20%,0.045,0.74,8e-05,2551.3,1786.2,100.9,25,0.43
